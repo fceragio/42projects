@@ -1,1 +1,0 @@
-tree_command_redirections.o: tree_command_redirections.c minishell.h

@@ -1,1 +1,0 @@
-parsing_identify_commands.o: parsing_identify_commands.c minishell.h

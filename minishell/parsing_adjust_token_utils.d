@@ -1,1 +1,0 @@
-parsing_adjust_token_utils.o: parsing_adjust_token_utils.c minishell.h

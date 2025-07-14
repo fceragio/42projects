@@ -1,2 +1,0 @@
-parsing_find_and_translate_envs_exitcode.o: \
- parsing_find_and_translate_envs_exitcode.c minishell.h
