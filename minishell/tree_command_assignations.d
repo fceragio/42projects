@@ -1,0 +1,1 @@
+tree_command_assignations.o: tree_command_assignations.c minishell.h

@@ -1,0 +1,1 @@
+redirection_execution_input.o: redirection_execution_input.c minishell.h

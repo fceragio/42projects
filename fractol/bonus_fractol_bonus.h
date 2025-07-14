@@ -6,7 +6,7 @@
 /*   By: federico <federico@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/20 00:13:59 by federico          #+#    #+#             */
-/*   Updated: 2024/09/20 01:09:56 by federico         ###   ########.fr       */
+/*   Updated: 2025/07/12 02:48:59 by federico         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,7 +22,7 @@
 
 # define WIDTH 1000
 # define HEIGHT 1000
-# define FRACTAL_ITERATIONS 42
+# define FRACTAL_ITERATIONS 128
 # define ESCAPE_VALUE 4
 # define OLD_MIN 0
 # define MLX_DEFAULT 0

@@ -1,0 +1,2 @@
+parsing_find_and_substitute_heredocs_utils1.o: \
+ parsing_find_and_substitute_heredocs_utils1.c minishell.h
